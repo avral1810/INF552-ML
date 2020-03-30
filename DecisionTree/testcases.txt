@@ -1,0 +1,7 @@
+Occupied, Price, Music, Location, VIP, Favorite Beer
+
+
+Moderate, Cheap, Loud, City-Center, No, No
+High, Cheap, Loud, City-Center, No, No
+Low, Normal, Quite, City-Center, No, Yes
+Low, Cheap, Quiet, City-Center, No, No
